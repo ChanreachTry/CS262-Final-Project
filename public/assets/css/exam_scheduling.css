@@ -1,0 +1,46 @@
+.title{
+    color: #3E008E;
+}
+
+.scheduling-container form{
+    background-color: #A865FE;
+    width: 750px;
+    height: 530px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px ;
+}
+.row{
+    padding:20px;
+
+}
+.form-control{
+    width: 300px;
+    margin-left: 25px;
+}
+
+.form-select{
+    width: 300px;
+    margin-left: 25px;
+}
+
+.form-group .form-control select i{
+    color: black;
+}
+
+.form-label{
+    color: white;
+    font-size: 17px;
+    margin-left: 25px;
+}
+
+.btn-primary {
+    background-color: #3E008E;
+    border-color: #3E008E;
+    color: white;
+    margin-left: 40%;
+    width: 150px;
+    height: 40px;
+    
+}
+
+

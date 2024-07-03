@@ -1,0 +1,18 @@
+.instruction-content h3{
+    font-size: 25px;
+    font-weight: bold;
+    color:#3E008E;
+}
+
+.instruction-content p{
+   font-size: 13px;
+}
+
+.question-form{
+    padding: 25px;
+}
+
+.btn-primary a{
+    color: white;
+}
+
